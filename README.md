@@ -82,10 +82,12 @@ We’ll explore**:
 
 Stay tuned — because if you’re serious about web hosting, the next piece could shape your entire strategy.
 
-Follow for more:
-X.com: [https://x.com/hugovalters](https://x.com/hugovalters)
-bsky.app: [https://bsky.app/profile/hugovalters.bsky.social](https://bsky.app/profile/hugovalters.bsky.social)
-YouTube: [https://www.youtube.com/@hugovalters](https://www.youtube.com/@hugovalters)
-Homepage: [https://www.valters.eu](https://www.valters.eu)
-GitHub: [https://github.com/hugovalters](https://github.com/hugovalters)
+Follow for more: <br>
+X.com: [https://x.com/hugovalters](https://x.com/hugovalters)<br>
+bsky.app: [https://bsky.app/profile/hugovalters.bsky.social](https://bsky.app/profile/hugovalters.bsky.social)<br>
+YouTube: [https://www.youtube.com/@hugovalters](https://www.youtube.com/@hugovalters)<br>
+Homepage: [https://www.valters.eu](https://www.valters.eu)<br>
+GitHub: [https://github.com/hugovalters](https://github.com/hugovalters)<br>
 Medium: [https://blog.valters.eu](https://blog.valters.eu)
+
+By Hugo Valters
